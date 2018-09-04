@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-  <html>
+  <html>  
   <head>
       <meta charset="utf-8" />
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -11,16 +11,16 @@
   </head>
 
   <body>
-    <div class="container-fluiddy>">
+    <div class="container-fluid">
       <div class="row encabezado d-flex">
-        <div class="col-12 col-md-12 col-lg-12">
-          <img class="img align-left pt-4 pr-4" href="#" src="img/LOGO MKL-01.png" alt="logo">
+        <div class="col-xs-10 offset-xs-2 col-md-12 col-lg-12">
+          <img class="img align-left p-4" href="#" src="img/LOGO MKL-01.png" alt="logo">
         <div class="row menu d-flex">
-          <div class="col-12 col-md-11 offset-md-1 col-lg-10 offset-lg-2">
+          <div class="col-xs-12 col-md-11 offset-md-1 col-lg-9 offset-lg-3">
             <nav class="nav button">
-              <a class="nav-item nav-link d-flex p-3 ml-4 mr-4 text-white" href="registrate.php"><h5>Registrate</h5></a>
-              <a class="nav-item nav-link d-flex p-3 ml-4 mr-4 text-white" href="iniciar_sesion.php"><h5>Iniciar sesion</h5></a>
-              <a class="nav-item nav-link d-flex p-3 ml-4 mr-4 text-white" href="pgnts-frctes.php"><h5>Preguntas Frecuentes</h5></a>
+              <a class="nav-item nav-link d-flex mb-3 ml-4 mr-4 text-white" href="registrate.php"><h5>Registrate</h5></a>
+              <a class="nav-item nav-link d-flex mb-3 ml-4 mr-4 text-white" href="iniciar_sesion.php"><h5>Iniciar sesion</h5></a>
+              <a class="nav-item nav-link d-flex mb-3 ml-4 mr-4 text-white" href="pgnts-frctes.php"><h5>Preguntas Frecuentes</h5></a>
             </nav>  
           </div>
         </div>
@@ -34,7 +34,7 @@
     <footer class="pie">
     <div class="row encabezado d-flex">
       <div class="row menu d-flex">
-          <div class="col-12 col-md-12 offset-md-2 col-lg-12 offset-lg-5">
+          <div class="col-xs-10 offset-xs-2 col-md-12 offset-md-1 col-lg-12 offset-lg-7">
             <nav class="nav button">
               <a class="nav-item nav-link d-flex ml-4 mr-4 mt-3 text-white" href="registrate.php"><h5>Registrate</h5></a>
               <a class="nav-item nav-link d-flex ml-4 mr-4 mt-3 text-white" href="iniciar_sesion.php"><h5>Iniciar sesion</h5></a>
@@ -42,8 +42,8 @@
             </nav>  
           </div>
         </div>
-        <div class="col-12 offset-3 col-md-12 offset-md-8 col-lg-12 offset-lg-10">
-          <img class="img align-right pb-4 pr-4" href="#" src="img/LOGO MKL-01.png" alt="logo">
+        <div class="col-xs-10 offset-xs-2 col-md-12 offset-md-8 col-lg-12 offset-lg-10">
+          <img class="img align-right p-4" href="#" src="img/LOGO MKL-01.png" alt="logo">
         </div>
       </div>  
     </footer>

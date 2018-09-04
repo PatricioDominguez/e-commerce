@@ -12,17 +12,17 @@
     <body>
         <div class="container-fluid">
                     <div class="row encabezado d-flex">
-                    <div class="col-12 col-md-12 col-lg-6">
-                        <img class="img align-left pt-4 pr-4" href="#" src="img/LOGO MKL-01.png" alt="logo">
+                    <div class="col-xs-12 offset-xs-2 col-md-12 col-lg-12 ">
+                        <img class="img align-left p-4" href="#" src="img/LOGO MKL-01.png" alt="logo">
+                    </div>    
                     <div class="row menu d-flex">
-                        <div class="col-12 col-md-11 offset-md-1 col-lg-12 offset-lg-6 ">
+                        <div class="col-xs-10 offset-xs-2 col-md-12 offset-md-1 col-lg-12 offset-lg-7">
                         <nav class="nav button">
-                            <a class="nav-item nav-link d-flex p-3 ml-5 mr-5 text-white" href="index1.php"><h5>Inicio</h5></a>
-                            <a class="nav-item nav-link d-flex p-3 ml-4 mr-4 text-white" href="iniciar_sesion.php"><h5>Iniciar sesion</h5></a>
-                            <a class="nav-item nav-link d-flex p-3 ml-4 mr-4 text-white" href="pgnts-frctes.php"><h5>Preguntas Frecuentes</h5></a>
+                            <a class="nav-item nav-link d-flex mb-3 ml-5 mr-4 text-white" href="index1.php"><h5>Inicio</h5></a>
+                            <a class="nav-item nav-link d-flex mb-3 ml-5 mr-4 text-white" href="iniciar_sesion.php"><h5>Iniciar sesion</h5></a>
+                            <a class="nav-item nav-link d-flex mb-3 ml-5 mr-4 text-white" href="pgnts-frctes.php"><h5>Preguntas Frecuentes</h5></a>
                         </nav>  
                         </div>
-                    </div>
                     </div>
                     </div>
             <article class="row principal d-block">
@@ -43,7 +43,7 @@
                         </div>
                         <div class="form-group col-md-6">
                             <label>Email</label>
-                            <input type="email" class="form-control" placeholder="name@e-mail.com">
+                            <input type="email" class="form-control" placeholder="example@example.com">
                         </div>
                         <div class="form-group col-md-6">
                                 <label>Teléfono</label>
@@ -61,7 +61,7 @@
                         </div>    
                         <div class="form-group col-md-4">
                                 <label>Piso-Depto</label>
-                                <input type="piso" class="form-control">
+                                <input type="piso" class="form-control" placeholder="1 - A">
                         </div>
                         </div>
                         <div class="form-row">
@@ -73,13 +73,13 @@
                             <label>Localidad</label>
                             <input type="localidad" class="form-control">
                         </div>
-                        <div class="form-group col-md-2">
+                        <div class="form-group col-md-3">
                             <label>Código Postal</label>
-                            <input type="cp" class="form-control" placeholder="1640">
+                            <input type="cp" class="form-control">
                         </div>
                         </div>
                         <div class="form-group">
-                        <div class="form-check">
+                        <div class="form-check mt-3 mb-4">
                             <input class="form-check-input" type="checkbox">
                             <label class="form-check-label">Quiero recibir novedades</label>
                         </div>
@@ -90,16 +90,16 @@
             <footer class="pie">
             <div class="row encabezado d-flex">
             <div class="row menu d-flex">
-                <div class="col-12 col-md-12 offset-md-2 col-lg-12 offset-lg-5">
+                <div class="col-xs-12 col-md-12 offset-md-1 col-lg-12 offset-lg-7">
                     <nav class="nav button">
-                    <a class="nav-item nav-link d-flex ml-4 mr-4 mt-3 text-white" href="registrate.php"><h5>Registrate</h5></a>
-                    <a class="nav-item nav-link d-flex ml-4 mr-4 mt-3 text-white" href="iniciar_sesion.php"><h5>Iniciar sesion</h5></a>
-                    <a class="nav-item nav-link d-flex ml-4 mr-4 mt-3 text-white" href="pgnts-frctes.php"><h5>Preguntas Frecuentes</h5></a>
+                        <a class="nav-item nav-link d-flex ml-5 mr-4 mt-3 text-white" href="index1.php"><h5>Inicio</h5></a>
+                        <a class="nav-item nav-link d-flex ml-5 mr-4 mt-3 text-white" href="iniciar_sesion.php"><h5>Iniciar sesion</h5></a>
+                        <a class="nav-item nav-link d-flex ml-5 mr-4 mt-3 text-white" href="pgnts-frctes.php"><h5>Preguntas Frecuentes</h5></a>
                     </nav>  
                 </div>
                 </div>
-                <div class="col-12 offset-3 col-md-12 offset-md-8 col-lg-12 offset-lg-10">
-                <img class="img align-right pb-4 pr-4" href="#" src="img/LOGO MKL-01.png" alt="logo">
+                <div class="col-xs-12 offset-xs-3 col-md-12 offset-md-8 col-lg-12 offset-lg-10">
+                <img class="img align-right p-4" href="#" src="img/LOGO MKL-01.png" alt="logo">
                 </div>
             </div>  
             </footer>
