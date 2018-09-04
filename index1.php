@@ -10,13 +10,13 @@
       <link href="https://fonts.googleapis.com/css?family=Questrial" rel="stylesheet">
   </head>
 
-  <body>  
-    <div class="container-fluid">
+  <body>
+    <div class="container-fluiddy>">
       <div class="row encabezado d-flex">
-        <div class="col-12 col-md-12 col-lg-6">
+        <div class="col-12 col-md-12 col-lg-12">
           <img class="img align-left pt-4 pr-4" href="#" src="img/LOGO MKL-01.png" alt="logo">
         <div class="row menu d-flex">
-          <div class="col-12 col-md-11 offset-md-1 col-lg-12 offset-lg-6 ">
+          <div class="col-12 col-md-11 offset-md-1 col-lg-10 offset-lg-2">
             <nav class="nav button">
               <a class="nav-item nav-link d-flex p-3 ml-4 mr-4 text-white" href="registrate.php"><h5>Registrate</h5></a>
               <a class="nav-item nav-link d-flex p-3 ml-4 mr-4 text-white" href="iniciar_sesion.php"><h5>Iniciar sesion</h5></a>
@@ -34,7 +34,7 @@
     <footer class="pie">
     <div class="row encabezado d-flex">
       <div class="row menu d-flex">
-          <div class="col-12 col-md-11 offset-md-1 col-lg-12 offset-lg-7">
+          <div class="col-12 col-md-11 offset-md-1 col-lg-12 offset-lg-5">
             <nav class="nav button">
               <a class="nav-item nav-link d-flex ml-4 mr-4 mt-3 text-white" href="registrate.php"><h5>Registrate</h5></a>
               <a class="nav-item nav-link d-flex ml-4 mr-4 mt-3 text-white" href="iniciar_sesion.php"><h5>Iniciar sesion</h5></a>
@@ -42,7 +42,7 @@
             </nav>  
           </div>
         </div>
-        <div class="col-12 col-md-12 col-lg-2 offset-lg-10">
+        <div class="col-12 col-md-12 col-lg-12 offset-lg-10">
           <img class="img align-right pb-4 pr-4" href="#" src="img/LOGO MKL-01.png" alt="logo">
         </div>
       </div>  

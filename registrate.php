@@ -84,7 +84,7 @@
                             <label class="form-check-label">Quiero recibir novedades</label>
                         </div>
                         </div>
-                            <button class="boton-registro" type="submit" class="btn btn-primary">Enviar</button>
+                        <button type="button" class="btn btn-outline-dark">Registrarme</button>
                     </form>
             </article>          
             <footer class="pie">
