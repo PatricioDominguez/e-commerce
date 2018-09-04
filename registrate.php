@@ -98,7 +98,7 @@
                     </nav>  
                 </div>
                 </div>
-                <div class="col-12 col-md-12 offset-md-8 col-lg-12 offset-lg-10">
+                <div class="col-12 offset-3 col-md-12 offset-md-8 col-lg-12 offset-lg-10">
                 <img class="img align-right pb-4 pr-4" href="#" src="img/LOGO MKL-01.png" alt="logo">
                 </div>
             </div>  
