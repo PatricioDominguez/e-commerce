@@ -68,24 +68,21 @@
             </div>
         </article>
         <footer class="pie">
-            <div class="row encabezado d-flex">
-            <div class="row menu d-flex">
-                <div class="col-12 col-md-11 offset-md-1 col-lg-12 offset-lg-8">
-                    <nav class="nav button">
-                        <a class="nav-item nav-link d-flex p-3 ml-5 mr-5 text-white" href="index1.php"><h5>Inicio</h5></a>
-                        <a class="nav-item nav-link d-flex p-3 ml-5 mr-5 text-white" href="registrate.php"><h5>Registrate</h5></a>
-                        <a class="nav-item nav-link d-flex p-3 ml-4 mr-4 text-white" href="iniciar_sesion.php"><h5>Iniciar sesion</h5></a>
-                    </nav>  
-                </div>
-                </div>
-                <div class="col-12 col-md-12 col-lg-2 offset-lg-10">
-                <img class="img align-right pb-4 pr-4" href="#" src="img/LOGO MKL-01.png" alt="logo">
-                </div>
-            </div>  
+        <div class="row encabezado d-flex">
+        <div class="row menu d-flex">
+            <div class="col-12 col-md-12 offset-md-2 col-lg-12 offset-lg-5">
+                <nav class="nav button">
+                <a class="nav-item nav-link d-flex ml-4 mr-4 mt-3 text-white" href="registrate.php"><h5>Registrate</h5></a>
+                <a class="nav-item nav-link d-flex ml-4 mr-4 mt-3 text-white" href="iniciar_sesion.php"><h5>Iniciar sesion</h5></a>
+                <a class="nav-item nav-link d-flex ml-4 mr-4 mt-3 text-white" href="pgnts-frctes.php"><h5>Preguntas Frecuentes</h5></a>
+                </nav>  
+            </div>
+            </div>
+            <div class="col-12 col-md-12 offset-md-8 col-lg-12 offset-lg-10">
+            <img class="img align-right pb-4 pr-4" href="#" src="img/LOGO MKL-01.png" alt="logo">
+            </div>
+        </div>  
         </footer>
-
-            
-
     </div>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
