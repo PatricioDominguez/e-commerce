@@ -15,7 +15,7 @@
             <div class="col-xs-12 col-md-12 col-lg-12">
                     <img class="img align-left p-4" src="img/LOGO MKL-01.png" alt="logo">
                 <div class="row menu d-flex">
-                <div class="col-xs-12 col-md-12 offset-md-1 col-lg-12 offset-lg-3">
+                <div class="col-xs-10 offset-xs-2 col-md-12 offset-md-1 col-lg-12 offset-lg-2">
                     <nav class="nav button">
                         <a class="nav-item nav-link d-flex mb-3 ml-5 mr-5 text-white" href="index1.php"><h5>Inicio</h5></a>
                         <a class="nav-item nav-link d-flex mb-3 ml-5 mr-5 text-white" href="registrate.php"><h5>Registrate</h5></a>
@@ -64,7 +64,7 @@
         <footer class="pie">
         <div class="row encabezado d-flex">
         <div class="row menu d-flex">
-            <div class="col-xs-12 col-md-12 offset-md-1 col-lg-12 offset-lg-7">
+            <div class="col-xs-10 offset-xs-2 col-md-12 offset-md-1 col-lg-12 offset-lg-3">
                 <nav class="nav button">
                     <a class="nav-item nav-link d-flex ml-5 mr-5 mt-3 text-white" href="index1.php"><h5>Inicio</h5></a>
                     <a class="nav-item nav-link d-flex ml-5 mr-5 mt-3 text-white" href="registrate.php"><h5>Registrate</h5></a>
@@ -72,8 +72,8 @@
                 </nav>  
             </div>
             </div>
-            <div class="col-xs-12 offset-xs-3 col-md-12 offset-md-8 col-lg-12 offset-lg-10">
-            <img class="img align-right p-4 " href="#" src="img/LOGO MKL-01.png" alt="logo">
+            <div class="col-12 offset-1 col-md-4 offset-md-8 col-lg-3 offset-lg-9">
+            <img class="img align-right pb-4" href="#" src="img/LOGO MKL-01.png" alt="logo">
             </div>
         </div>  
         </footer>
